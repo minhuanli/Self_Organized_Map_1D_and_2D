@@ -1,4 +1,4 @@
-# Self_Organized_Map_1D_and_2D
+# Self_Organizing_Map_1D_and_2D
 Python Implementation of SOM, interesting topological detection tools.
 
 1D demo
